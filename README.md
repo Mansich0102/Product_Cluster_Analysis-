@@ -4,7 +4,7 @@
 In today's competitive landscape, understanding customer behavior and optimizing inventory are critical. Product clustering offers a data-driven approach to segmenting products, enabling strategic decision-making and operational efficiency
 
 ## Overview
-This project is aimed at conducting product clustering analysis using historical sales data. The primary objective is to group similar products based on sales patterns, thereby discerning trends, optimizing inventory management processes, and tailoring our offerings to better align with customer preferences.
+This project is aimed at conducting product clustering analysis using historical sales data. The primary objective is to group similar products based on sales patterns.
 The dataset includes various features , and these features are described below :
 |Sr.no|Features name|Description |
  |-|-|-|
