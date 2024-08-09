@@ -1,0 +1,9 @@
+YEAR:Calendar Year
+MONTH:Month
+SUPPLIER:Supplier Name
+ITEM CODE:Item code
+ITEM DESCRIPTION:Item Description
+ITEM TYPE:Item Type
+RETAIL SALES:Cases of product sold from DLC dispensaries
+RETAIL TRANSFERS:Cases of product transferred to DLC dispensaries
+WAREHOUSE SALES:Cases of product sold to MC licensees
